@@ -1,6 +1,8 @@
 <?php include("yheader.php"); ?>
 <br></br>
 
+
+<h3>&nbsp;&nbsp;&nbsp;Pyramid 34</h3>
 <?php include("font_k.php");
 for($fon=1;$fon<=3;$fon++) {
 	for($col=1;$col<=3-$fon;$col++) {

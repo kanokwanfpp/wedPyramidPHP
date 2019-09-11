@@ -83,7 +83,7 @@ a:hover, a:active {
         <a href="fon_22.php" class="w3-bar-item w3-button">Pyramid22</a>
         <a href="fon_23.php" class="w3-bar-item w3-button">Pyramid23</a>
         <a href="fon_24.php" class="w3-bar-item w3-button">Pyramid24</a>
-        <a href="fon_25.php" class="w3-bar-item w3-button">Pyramid25</a>
+      
   </div>
   </div>
 
